@@ -1,0 +1,10 @@
+hola este es un  archivo de texto plano 
+me llamo Eduardo Chana 
+vivo en Colombia
+tengo 24 años
+y soy un apasionado por los viajes y la lectura de ciencia ficcion 
+
+
+Ahora vamos a crear un segundo commit a partir 
+de este archivo y va a contar como segundo.
+se lograra visualizar en el repositorio de git

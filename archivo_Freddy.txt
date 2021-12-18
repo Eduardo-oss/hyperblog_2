@@ -1,0 +1,15 @@
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 33 años y nació en Colombia,
+viviendo en todo el mundo
+
+Hoy hablaremos de su historia.
+
+En camara parece alto pero la verdad no es tan alto. 
+
+Hoy es el CEO de Platzi
+
+Esta linea corresponde al commit para reflejar la edad correcta                 OK
+Esta linea corresponde al commit para modificar su estatura                     OK
+Esta linea corresponde al commit para modificar el cargo de la persona          OK
+Esta linea corresponde al commit para modificar ortografia de la linea 8        OK
