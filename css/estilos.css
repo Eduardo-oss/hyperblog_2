@@ -1,8 +1,8 @@
 body
 {
-    color: #333;
+    color: #201e1e;
     text-align:center;
-    font-family: "Arial";
+    font-family: "Helvetica";
     font-size: 16px;
     margin:0;
     padding: 0;
@@ -34,5 +34,5 @@ body
 }
 #container h1
 {
-    font: size 20px;
+    font: size 30px;
 }
